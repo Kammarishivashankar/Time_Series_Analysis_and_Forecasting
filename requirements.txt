@@ -1,0 +1,8 @@
+pandas
+statsmodels
+scikit-learn
+numpy
+matplotlib
+seaborn
+ipykernel
+pathlib
